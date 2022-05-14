@@ -19,6 +19,7 @@ Durante as aulas, em poucos dias, pude aprender conceitos fundamentais de HTML, 
 ## Links Úteis
 
 O site pode ser visitado [aqui.](https://siteada.isabellashie.repl.co/)
+Compartilhei o projeto em um post no LinkedIn, que pode ser visualizado [aqui.](https://www.linkedin.com/feed/update/urn:li:activity:6931319472905408512/)
 
 ## Autor
 
